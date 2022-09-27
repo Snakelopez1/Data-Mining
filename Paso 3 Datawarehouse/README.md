@@ -1,0 +1,1 @@
+En este paso se hizo aplico el concepto de lattice de cubos de datos, y utilizar la arquitectura de datos para minería, esto se hizo con la base de datos generada en el paso anterior, encontraras más información acerca de esto en el documento pdf en esta carpeta.
